@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">DoggoProject</string>
+    <string name="dog_list">Lub przejdź prosto do naszych psów!</string>
+    <string name="quiz">Rozwiąż quiz, aby dowiedzieć się która z ras psów pasuje do Ciebie najbardziej!</string>
+    <string name="JSONquery">http://www.json-generator.com/api/json/get/cfsCiPDqCq?indent=2</string>
+
+
+    <string name="chihuahua_short">Jedna z ras psów, należąca według klasyfikacji FCI do grupy psów ozdobnych i do towarzystwa, zaklasyfikowana do sekcji chihuahua, nie podlegająca próbom pracy.</string>
+    <string name="chihuahua_long">Mały pies o krępej, zwartej i silnej budowie, format sylwetki zbliżony do kwadratu. Charakterystyczną cechą rasy jest jabłkowata głowa z niezarośniętym ciemiączkiem. Uszy są duże. Ogon jest noszony sztywno i prosto. Oczy szeroko rozstawione i żuchwa lekko wysunięta do przodu.
+                Umaszczenie jest różnorodne, najczęściej występujące jednak płowe, czekoladowe, białe, piaskowe, srebrzystopłowe, srebrzystoszare, czarne, czarne podpalane, biało-brązowe i płowe pręgowane.
+                Przy czarnym kolorze psa widać na dole szyi biały krawacik i nieco brązowe skarpetki u łap.</string>
+
+    <string name="Cavalier_short">Rasa psów, należąca do IX grupy FCI psów ozdobnych i do towarzystwa, zaklasyfikowana do sekcji siódmej – angielskie spaniele do miniaturowe. Typ wyżłowaty. Nie podlega próbom pracy.</string>
+    <string name="Cavalier_long">Budowa: Głowa i czaszka: czaszka prawie płaska między uszami. Płytki stop. Długość kufy od stopu do czubka nosa około 4 cm. Nozdrza czarne, dobrze rozwinięte, bez niedopigmentowanych plam. Kufa zwężająca się. Wargi dobrze rozwinięte, ale nie obwisłe. Twarzoczaszka dobrze wypełniona pod oczami. Niepożądana jakakolwiek tendencja do wąskiej kufy (bekasi pysk).
+        Oczy: duże, ciemne, okrągłe lecz nie wyłupiaste, szeroko rozstawione.
+        Uszy: długie, wysoko osadzone, mocno opiórowane.
+        Pysk: szczęka i żuchwa mocne z doskonałym zgryzem nożycowym tj. górne zęby ściśle zachodzące na dolne, ustawione prostopadle do szczęki i żuchwy.
+        Szyja: umiarkowanej długości, nieco łukowata.
+        Kończyny przednie: umiarkowanie rozwinięta klatka piersiowa, dobrze kątowane łopatki, kończyny proste z umiarkowanym kośćcem.
+        Kończyny tylne: nogi o umiarkowanie mocnym kośćcu, dobrze kątowany staw kolanowy – bez tendencji do postawy krowiej lub sierpowatego postawienia kończyn.
+        Łapy: zwarte, wysklepione i mocno owłosione.
+        Ogon: długość ogona w proporcji do ciała, dobrze osadzony, noszony wesoło lecz nigdy zbytnio powyżej linii grzbietu.
+        Tułów: krótki, zwarty, dobrze ożebrowany. Grzbiet prosty.
+        Ruch: swobodny, elegancki z mocną akcją kończyn tylnych. Kończyny przednie oglądane z przodu i z tyłu poruszają się równolegle.</string>
+
+    <string name="Pomeranian">Szpic</string>
+    <string name="Pomeranian_short">Rasa psa, należąca do grupy szpiców i psów pierwotnych, zaklasyfikowana do sekcji szpiców europejskich. Nazwa bierze się od Pomeranii- czyli po polsku Pomorza. Typ lisowaty.</string>
+    <string name="Pomeranian_long">Jedna z teorii pochodzenia tej rasy mówi, że na południowo-zachodnie wybrzeże Bałtyku pomeraniany przybyły ze Skandynawii. Nazwa pomeranian oznacza psa z Pomorza, na które psy te przywędrowały z woźnicami.
+        Pies do towarzystwa. Nadaje się dla domatora. Jest psem jednego pana, bardzo się przywiązuje, ale też często nie można nad nim zapanować. Można z nim uprawiać psie sporty np. agility, obedience lub taniec z psem.
+        Dopuszczalna jest szeroka gama typów umaszczenia (od białego i biało-kremowego, po czarne).
+        Wymaga regularnego trymowania oraz wyczesywania sierści.</string>
+
+    <string name="German_shepherd">Owczarek Niemiecki</string>
+    <string name="German_shepherd_short">Jedna z ras psów należąca do grupy psów pasterskich sklasyfikowana do sekcji psów pasterskich (owczarskich). Według klasyfikacji FCI podlega próbom pracy. Zaliczany do psów obronnych. Typ wilkowaty.</string>
+    <string name="German_shepherd_long">Sylwetka prawidłowo zbudowanego owczarka niemieckiego jest prostokątna, mocna i harmonijna. Pies ma prosty grzbiet z wysokim, wyraźnym kłębem oraz pojemną klatkę piersiową z dobrze wykształconym przedpiersiem. Zad długi i mocny, lekko opadający. Szyja pozbawiona podgardla.
+        Kończyny owczarka niemieckiego powinny być proste, idealnie równoległe i umięśnione, a ścięgna i stawy mocne. Tylne łapy nieco odstawione do tyłu, dobrze kątowane. Łapy okrągłe, zwarte, palce wysklepione, pazury ciemne.
+        Owczarek niemiecki powinien mieć długi, nisko osadzony i obficie owłosiony ogon, noszony szablasto.</string>
+
+    <string name="Pembroke_welsh_corgi_short">Jedna z ras psów, należąca do grupy psów pasterskich i zaganiających, zaklasyfikowana do sekcji psów pasterskich (owczarskich). Typ jamnikowaty. Nie podlega próbom pracy.</string>
+    <string name="Pembroke_welsh_corgi_long">Rasa wyhodowana w Walii, wywodzi się od psów wikingów.
+        Psy te wykorzystywane są jako psy pasterskie i zaganiające bydło. Coraz częściej są to psy towarzyszące.
+        Przyjaźnie nastawione wobec ludzi, kontaktowe. Są pojętne i czujne. Pies rodzinny, skory do wspólnych zabaw oraz akceptujący dzieci.
+        Średniej wielkości pies o krótkich nogach. W odróżnieniu od Cardigana uszy ma mniejsze i ruchliwe, także zaokrąglone.
+        Szyja: muskularna, dobrze rozwinięta.
+        Tułów: długi i mocny; klatka piersiowa szeroka i głęboka; linia grzbietu prosta.
+        Ogon: lisi osadzony na linii grzbietu, nie zawsze kopiowany.
+        Głowa: lisia w kształcie; między uszami czaszka jest dosyć szeroka i płaska; stop średnio zaznaczony; kufa zwęża się lekko ku końcowi; nos czarny.</string>
+
+    <string name="French_bulldog">Buldog Francuski</string>
+    <string name="Vizsla">Wyżeł węgierski krótkowłosy</string>
+    <string name="American_staffordshire_terrier">Amstaff</string>
+    <string name="English_bulldog">Buldog Angielski</string>
+    <string name="Great_dane">Dog Niemiecki</string>
+    <string name="Dachshund">Jamnik</string>
+    <string name="Pug">Mops</string>
+    <string name="Italian_greyhound">Charcik Włoski</string>
+    <string name="Old_english_sheepdog">Owczarek Staroangielski</string>
+    <string name="Australian_shepherd_dog">Owczarek Australijski</string>
+    <string name="Poodle">Pudel</string>
+
+    <string name="see_more">Zobacz więcej...</string>
+    <string name="shelter_dogs">Wszyscy wiemy jak fajne są rasowe psy, ale nie każdy z nas wie, że między rasowymi a kundelkami nie ma żadnej różnicy! Pomóz naszym schroniskowym pieskom!</string>
+    <string name="shelter_button_text">Znajdź nasze schronisko!</string>
+    <string name="your_perfect_dog">Najbardziej pasuje do Ciebie:</string>
+
+
+</resources>

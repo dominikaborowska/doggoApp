@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">DoggoProject</string>
+    <string name="dog_list">Or go straight to our dogs!</string>
+    <string name="quiz">Take a quiz to find what type of dog will be the best match for you!</string>
+    <string name="shortDescription">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tempor cursus turpis nec tincidunt.</string>
+    <string name="longDescription">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce maximus pulvinar eros vitae ullamcorper. Ut eu pellentesque odio. Nullam ex urna, commodo ac hendrerit ac, tristique tincidunt libero. Etiam consequat augue in egestas posuere. Proin vel lacus lobortis, accumsan sapien eu, vestibulum dolor. Donec pharetra ipsum ac est maximus, a aliquam leo feugiat. Vivamus sodales quis justo vitae dictum. Praesent libero magna, feugiat non congue nec, feugiat et enim. Etiam mauris quam, aliquam eu mi et, feugiat ultrices ex.</string>
+
+    <string name="JSONquery">http://www.json-generator.com/api/json/get/bTwGZjxViW?indent=2</string>
+
+    <string name="Chihuahua">Chihuahua</string>
+    <string name="chihuahua_short">The smallest breed of dog and is named after the state of Chihuahua in Mexico. Chihuahuas come in a wide variety of colors, and two coat lengths.</string>
+    <string name="chihuahua_long">The Chihuahuas history is convoluted, and there are many theories surrounding the origin of the breed. Both folklore and archaeological finds show that the breed originated in Mexico. The most common theory is that Chihuahuas are descended from the Techichi, a companion dog favored by the Toltec civilization in Mexico. No records of the Techichi are available prior to the 9th century, although dog pots from Colima, Mexico, buried as part of the western Mexico shaft tomb tradition which date back to 300 BC are thought to depict Techichis. It is probable that earlier ancestors were present prior to the Mayas as dogs approximating the Chihuahua are found in materials from the Great Pyramid of Cholula, predating 1530 and in the ruins of Chichen Itza on the Yucatán Peninsula.</string>
+
+    <string name="Cavalier">Cavalier King Charles Spaniel</string>
+    <string name="Cavalier_short">The Cavalier King Charles Spaniel is a small spaniel classed as a toy dog by The Kennel Club and the American Kennel Club.</string>
+    <string name="Cavalier_long">The Cavalier King Charles Spaniel is a small spaniel classed as a toy dog by The Kennel Club and the American Kennel Club. It originated in the United Kingdom and is one of the more popular breeds in many countries. Since 2000, it has grown in popularity in the United States and ranks as the 18th most popular pure-breed in the United States (2013 Registration Statistics). It has a silky, smooth coat and commonly a smooth undocked tail.
+        The breed standard recognizes four colours: Blenheim (chestnut and white), Tricolor (black/white/tan), Black and Tan, and Ruby. The breed is generally friendly, affectionate and good with both children and other animals; however, they require a lot of human interaction.
+        Since they are a family dog, it is recommended to not leave them alone for long periods at a time. The expected average lifespan of a Cavalier King Charles Spaniel is under ten years.</string>
+
+    <string name="Pomeranian">Pomeranian</string>
+    <string name="Pomeranian_short">The Pomeranian (often known as a Pom or Pom Pom) is a breed of dog of the Spitz type that is named for the Pomerania region in Germany and Poland in Central Europe.</string>
+    <string name="Pomeranian_long">Classed as a toy dog breed because of its small size, the Pomeranian is descended from the larger Spitz-type dogs, specifically the German Spitz. It has been determined by the Fédération Cynologique Internationale to be part of the German Spitz breed; and in many countries, they are known as the Zwergspitz ("Dwarf-Spitz").</string>
+
+    <string name="German_shepherd">German Shepherd</string>
+    <string name="German_shepherd_short">The German Shepherd is a breed of medium to large-sized working dog that originated in Germany.</string>
+    <string name="German_shepherd_long">The breed was once known as the Alsatian in Britain and Ireland. The German Shepherd is a relatively new breed of dog, with their origin dating to 1899. As part of the Herding Group, German Shepherds are working dogs developed originally for herding sheep.
+        Since that time however, because of their strength, intelligence, trainability, and obedience, German Shepherds around the world are often the preferred breed for many types of work, including disability assistance, search-and-rescue, police and military roles, and even acting.
+        The German Shepherd is the second-most registered breed by the American Kennel Club and seventh-most registered breed by The Kennel Club in the United Kingdom.</string>
+
+    <string name="Pembroke_welsh_corgi">Pembroke Welsh Corgi</string>
+    <string name="Pembroke_welsh_corgi_short">The Pembroke Welsh Corgi is a cattle herding dog breed which originated in Pembrokeshire, Wales.</string>
+    <string name="Pembroke_welsh_corgi_long">It is one of two breeds known as a Welsh Corgi. The other is the Cardigan Welsh Corgi, and both descend from the line that is the northern spitz-type dog (examples include that of the Siberian Husky). Another theory is that Pembrokes are descended from the Swedish Vallhunds, which were crossed with the local Welsh herding dogs. The Pembroke Welsh Corgi is the younger of the two Corgi breeds and is a separate and distinct breed[4] from the Cardigan. The corgi is one of the smallest dogs in the Herding Group. Pembroke Welsh Corgis are famed for being the preferred breed of Queen Elizabeth II, who has owned more than 30 during her reign. These dogs have been favored by British royalty for more than seventy years, but among the British public, have recently fallen into decline in terms of popularity and demand.</string>
+
+    <string name="French_bulldog">French Bulldog</string>
+    <string name="Vizsla">Vizsla</string>
+    <string name="Pitbull">Pitbull</string>
+    <string name="Bull_terrier">Bull Terrier</string>
+    <string name="American_staffordshire_terrier">American Staffordshire Terrier</string>
+    <string name="Labrador_retriever">Labrador Retriever</string>
+    <string name="Rottweiler">Rottweiler</string>
+    <string name="Beagle">Beagle</string>
+    <string name="English_bulldog">English Bulldog</string>
+    <string name="Golden_retriever">Golden Retriever</string>
+    <string name="Great_dane">Great Dane</string>
+    <string name="Dachshund">Dachshund</string>
+    <string name="Pug">Pug</string>
+    <string name="Chow_chow">Chow Chow</string>
+    <string name="Yorkshire_terrier">Yorkshire Terrier</string>
+    <string name="Italian_greyhound">Italian Greyhound</string>
+    <string name="Alaskan_malamute">Alaskan Malamute</string>
+    <string name="Samoyed">Samoyed</string>
+    <string name="Old_english_sheepdog">Old English Sheepdog</string>
+    <string name="Shiba_inu">Shiba Inu</string>
+    <string name="Australian_shepherd_dog">Australian Shepherd Dog</string>
+    <string name="Doberman">Doberman</string>
+    <string name="Poodle">Poodle</string>
+
+    <string name="see_more">See more...</string>
+    <string name="shelter_dogs">We all know how fun purebred dogs are, but not everyone knows there is no deference between mixed and purebred ones! Help one of our shelter puppies!</string>
+    <string name="shelter_button_text">Find where our shelter is!</string>
+    <string name="your_perfect_dog">Your perfect dog:</string>
+</resources>
